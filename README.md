@@ -10,7 +10,9 @@
 </p>
 
 ### 🌟 About Me
-<p align="center">
+
+
+
 🎓 Computer Science Student | 🤖 Aspiring AI & ML Engineer  
 💻 Coding Enthusiast (HTML, CSS, Python, Flutter)  
 🚀 Exploring tech, building logic, solving problems  
@@ -18,14 +20,6 @@
 🧠 Lifelong Learner & Innovator  
 </p>
 
----
-
-### 🌟 About Me
-
-> "نہ رکو، نہ جھکو — بس سیکھتے رہو!"
-
-I’m an enthusiastic Computer Science student with a deep interest in **Artificial Intelligence**, **Machine Learning**, and **problem-solving**.  
-Currently on a journey to master full-stack skills, from frontend UI to backend logic and intelligent systems.
 
 ---
 
