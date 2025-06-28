@@ -58,7 +58,7 @@ I’m an enthusiastic Computer Science student with a deep interest in Artificia
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,flutter,dart,firebase,git,github,postman,figma,xd,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,github,vscode&perline=7" />
 </p>
 
 ---
