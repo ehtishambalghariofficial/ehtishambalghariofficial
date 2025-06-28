@@ -12,11 +12,10 @@
 ### 🌟 About Me
 
 
+I’m an enthusiastic Computer Science student with a deep interest in Artificial Intelligence, Machine Learning, and problem-solving.
 
 🎓 Computer Science Student | 🤖 Aspiring AI & ML Engineer  
-💻 Coding Enthusiast (HTML, CSS, Python, Flutter)  
-🚀 Exploring tech, building logic, solving problems  
-📱 Flutter + Firebase Mobile Developer  
+💻 Coding Enthusiast (HTML, CSS, Python, )   
 🧠 Lifelong Learner & Innovator  
 </p>
 
