@@ -6,8 +6,9 @@
 <h1 align="center">👋 Asalam-o-Alaikum, I'm Ehtisham Balghari</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&center=true&width=500&lines=Computer+Science+Student;Aspiring+AI+%26+ML+Engineer;Coding+%26+Tech+Enthusiast;Passionate+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&center=true&width=500&lines=Computer+Science+Student;Aspiring+AI+%26+ML+Engineer;Coding+%26+Tech+Enthusiast;Passionate+Learner" alt="Typing SVG" />
 </p>
+
 
 ### 🌟 About Me
 
