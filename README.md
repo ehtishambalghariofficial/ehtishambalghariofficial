@@ -26,7 +26,7 @@ I’m an enthusiastic Computer Science student with a deep interest in Artificia
 ### 📫 Contact Me
 
 - 📧 **Email**: [ehtishambalgharipro@gmail.com](mailto:ehtishambalgharipro@gmail.com)  
-- 🌐 **Website**: [ehtishambalgharipro](https://thetechbrothers.net)  
+- 🌐 **Website**: [Ehtisham Balghari](https://ehtishambalghariofficial.github.io/)  
 - 📍 **Location**: Pakistan  
 
 ---
